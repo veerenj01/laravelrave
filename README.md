@@ -50,9 +50,7 @@ I will be working on this next
 - Pre Auth Charge
 
 > If there are features you need urgently, I will be willing to prioritize them, please reach out to my twitter account
-## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/kingflamez/laravelrave.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
